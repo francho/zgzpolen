@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+	<solid 
+	android:color="@color/bg_panel" 
+	
+	 />
+	 
+	 <padding android:left="@dimen/item_pading" android:top="@dimen/item_pading" 
+            android:right="@dimen/item_pading" android:bottom="@dimen/item_pading" />
+            
+</shape>

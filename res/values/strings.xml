@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, HomeActivity!</string>
+
+    <string name="app_name">ZgzPolen</string>
+    <string name="empty">Sin datos todavía...</string>
+
+    <string name="widget_title">Polen en Zaragoza</string>
+
+</resources>

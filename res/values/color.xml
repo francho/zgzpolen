@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg_level_common">#3fff</color>
+    <color name="bg_panel">#6000</color>
+    <color name="bg_level_0">#66999999</color>
+    <color name="bg_level_1">#6600CC00</color>
+    <color name="bg_level_2">#66FFF333</color>
+    <color name="bg_level_3">#66FF9900</color>
+    <color name="bg_level_4">#66FF0000</color>
+    
+    <color name="shadow">#AEEE</color>
+    <color name="shadow_level">#000</color>
+    <color name="text">#fff</color>
+    
+    
+    <color name="text_level_0">#CCCCCC</color>
+    <color name="text_level_1">#00CC00</color>
+    <color name="text_level_2">#FFF333</color>
+    <color name="text_level_3">#FF9900</color>
+    <color name="text_level_4">#FF0000</color>
+</resources>
